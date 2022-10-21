@@ -11,11 +11,11 @@
 
 ## 👀 Demo
 
-(Not publicated yet, but you can check my next.js version on https://github.com/gsttvlima/react-calculator)
+(Not publicated yet, but you can check my next.js version on https://github.com/gsttvlima/web-calculator)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/gsttvlima/basic-calculator/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/gsttvlima/mobile-calculator/issues).
 
 ## ✨ Show your support
 
