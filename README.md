@@ -15,7 +15,7 @@
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/gsttvlima/mobile-calculator/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/gsttvlima/android-ios-calculator/issues).
 
 ## ✨ Show your support
 
