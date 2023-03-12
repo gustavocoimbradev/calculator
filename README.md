@@ -1,17 +1,17 @@
 # Simple calculator 
 
-## 👨🏻‍💻 Techs
+## 👀 Demo
 
-* React Native
-* Nerdamer
+(Not publicated yet, but you can check my next.js version on https://github.com/gsttvlima/react-js-calculator)
 
 ## 📸 Screenshot
 
 <img src="https://user-images.githubusercontent.com/115879524/197105590-8a723596-559e-4a27-a7f1-acd69d57207b.png" width="300" />
 
-## 👀 Demo
+## 👨🏻‍💻 Techs
 
-(Not publicated yet, but you can check my next.js version on https://github.com/gsttvlima/web-calculator)
+* React Native
+* Nerdamer
 
 ## 🤝 Contributing
 
