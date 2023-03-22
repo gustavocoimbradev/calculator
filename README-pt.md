@@ -1,5 +1,3 @@
-
-
 # Calculadora feita com React Native e Nerdamer
 
 ## 📸 Captura de tela
