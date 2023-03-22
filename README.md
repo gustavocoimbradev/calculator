@@ -1,18 +1,3 @@
-# Calculator using React Native and Nerdamer
+[![1](https://user-images.githubusercontent.com/115879524/225759280-3a0a1e2c-f3c9-480a-ad17-beb92c938930.png)](README-en.md)
 
-## 📸 Screenshot
-
-<img src="https://user-images.githubusercontent.com/115879524/197105590-8a723596-559e-4a27-a7f1-acd69d57207b.png" width="300" />
-
-## 👨🏻‍💻 Techs
-
-* React Native
-* Nerdamer
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](../../issues).
-
-## ✨ Show your support
-
-Give a ⭐️ if this project helped you!
+[![2](https://user-images.githubusercontent.com/115879524/225759278-907ea931-dad1-4a48-b0e8-f5e9dc479c82.png)](README-pt.md)
